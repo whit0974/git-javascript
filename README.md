@@ -1,1 +1,1 @@
-# Github by Kelly Whitehurst de Castro
+# Git Javascript by Kelly Whitehurst de Castro
