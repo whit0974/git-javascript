@@ -1,4 +1,5 @@
-var myName = 'Kelly Whitehurst de Castro'
+const myName = 'Kelly Whitehurst de Castro'
 myName = 'Kelly White'
 console.log('Hello my name is 'myName')
-var number = '10'
+const number = 10
+console.log((((number * 2) * 5) / number) - 7)
